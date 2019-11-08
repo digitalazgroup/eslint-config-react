@@ -1,0 +1,11 @@
+{
+  "name": "@digitalazgroup/eslint-config-react",
+  "description": "ESLint config for react",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^2.2.0"
+  }
+}
